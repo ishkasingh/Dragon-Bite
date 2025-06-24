@@ -1,10 +1,17 @@
-# 🍏 Dragon Bite – E-commerce Platform for Organic Products
+# 🍏 Dragon Bite – E-commerce Platform for Organic Products 
 
 Welcome to **Dragon Bite**, a full-stack e-commerce platform designed for selling organic fruits and vegetables.  
 Built with **Spring Boot**, **MySQL**, and **React**, this project showcases key e-commerce functionalities like cart management, order placement, admin controls, secure authentication, and real-time notifications.
 
----
 
+
+---
+## 🎬 Project Demo
+
+📹 **Watch the demo video here**:  
+[🔗 Click to watch](https://drive.google.com/file/d/1eymeT8iKMcuUXFNmYN7juZZggXR8bwXp/view?usp=drive_link)
+
+---
 ## 🚀 Features
 
 ✅ User-friendly interface for browsing organic products  
